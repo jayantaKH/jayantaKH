@@ -1,2 +1,3 @@
 - 👋 Hi, I’m @jayantaKH
-- 👀 I’m interested in Web designing.
+- 🙋 I’m interested in >>Web designing
+- 🦾 Grinding on JavaScript,C,C++,Php,   Python,Java.....
